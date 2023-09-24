@@ -2,7 +2,7 @@
     <a href="https://ibb.co/nrvtKGf"><img src="https://i.ibb.co/Y2MwVC8/Salud-Analyzer-Icono.jpg" alt="Salud-Analyzer-Icono" border="0"/>
 </p>
 
-## <p align="center">Fundamentos SaludAnalyzer ![Alt text](image.png) </p>
+## <p align="center">Fundamentos SaludAnalyzer </p>
 
 ## Equipo
 
