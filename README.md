@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.bing.com/images/create/e2808bver-detalles-68-2f-5000-resultados-de-traduccic3b3n-/6510b262102c4fe9a03f8d96e35e14eb?id=7QcV8njYRl9scoqZBvJEKg%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0">
+    <a href="https://ibb.co/nrvtKGf"><img src="https://i.ibb.co/Y2MwVC8/Salud-Analyzer-Icono.jpg" alt="Salud-Analyzer-Icono" border="0"/>
 </p>
 
 <p align="center">Fundamentos SaludAnalyzer</p>
