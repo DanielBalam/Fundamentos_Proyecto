@@ -247,7 +247,7 @@ Afán de superación.
 Algunas de las tareas o actividades educativas que promueve UADY para una competencia en IS son: 
 
 * Mejora en proceso de Software 
-* Programación web 
+* Programación web con conocimientos basicos 
 * Programación de juegos educativos
 * Mejora en conocimiento de algoritmos
 * Juego de Video 
