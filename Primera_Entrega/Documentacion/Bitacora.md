@@ -11,12 +11,19 @@
 ### Tareas Realizadas:
 
 [23/09/2023]
+- **Daniel:** Se creo la rama "Primera_Entrega"
 
-- **Líder:** [se creo la rama "Primera_Entrega"]
+
 
 ### Reunion de Equipo:
 
-[ Pendiente... ]
+[29/09/2023]
+- Videollamada para hacer el video de la primera entrega
+
+- **Enrique:** Se realizo los usuarios
+- **Axel:** Realizo cambios en los requisitos funcionales y no funcionales
+- **Angel:** Realizo la priorización del proyecto
+- **Daniel:** Realizo los casos de uso y mejoras en el readme para que sea mas entendible
 
 ### Próximos Pasos
 
