@@ -3,8 +3,14 @@ Crear una herramienta para el alumnado que permita compilar la información rele
 
 
 •	Recopilar datos de salud personalizados para cada usuario.
-•	Proporciona recomendaciones altamente personalizadas basadas en estos datos.
+
+•Proporciona recomendaciones altamente personalizadas basadas en estos datos.
+
 •	Conectar a los usuarios con profesionales de la salud local.
+
 •	Incluir a maestros, administrativos y estudiantes en un enfoque integral de bienestar.
+
 •	Promover la salud mental junto con la física.
+
 •	Fomentar la prevención a través del seguimiento de salud a lo largo del tiempo.
+
