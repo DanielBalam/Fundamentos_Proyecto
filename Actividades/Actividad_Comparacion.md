@@ -95,6 +95,73 @@ Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático,
     * Requisitos de Software
     * Innovación Tecnológica
     * Mantenimiento de Software
+  
+TEC
+
+1.	**Entorno Social:**
+
+    * Taller de Ética
+    * Desarrollo Sustentable
+    * Taller de Legislación Informática 
+    * Especialidad
+    * Servicio Social
+
+2.	**Matemáticas:**
+
+    * Cálculo Diferencial
+    * Cálculo Integral
+    * Matemáticas Discretas
+    * Álgebra Lineal
+    * Probabilidad y Estadística
+    * Investigación de Operaciones
+
+3.	**Arquitectura de Computadoras:**
+
+    * Administración de los Recursos y Función Informática
+    * Sistemas Electrónicos para Informática
+    * Arquitectura de Computadoras
+    * Tecnologías e Interfaces de Computadoras
+    * Sistemas Operativos II
+
+4.	**Redes:**
+
+    * Fundamentos de Telecomunicaciones
+    * Redes de Computadoras
+    * Interconectividad de Redes
+    * Fundamentos de Gestión de Servicios de TI
+    * Administración de Servidores
+
+5.	**Software de Base:**
+
+    * Taller de Base de Datos
+    * Calidad en los Sistemas de Información
+
+6.	**Programación e Ingeniería de Software:**
+
+    * Fundamentos de Programación
+    * Programación Orientada a Objetos
+    * Estructura de Datos
+    * Desarrollo e Implementación de Sistemas de Información
+    * Desarrollo de Aplicaciones Web
+    * Programación en Ambiente Cliente/Servidor
+    * Desarrollo de Aplicaciones para Dispositivos Móviles
+    * Residencia Profesional
+
+7.	**Tratamiento de Información:**
+    
+    * Fundamentos de Sistemas de Información
+    * Administración y Organización de Datos
+    * Análisis y Modelado de Sistemas de Información
+    * Fundamentos de Base de Datos
+    * Auditoría en Informática
+    * Tópicos de Base de Datos
+
+8.	**Interacción Hombre – Máquina:**
+
+    * Estrategias de Gestión de Servicios de TI
+    * Fundamentos de Investigación
+    * Taller de Emprendedores
+
 
 ---
 
