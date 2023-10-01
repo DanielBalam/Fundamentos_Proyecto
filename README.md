@@ -106,6 +106,19 @@ Crear una herramienta para el alumnado que permita compilar la información pert
 **9. Idiomas y Localización:** La aplicación debe ser compatible con varios idiomas y permitir la localización para adaptarse a las necesidades de los usuarios en diferentes regiones.
 
 **10. Cumplimiento de Normativas de Salud:** La aplicación debe cumplir con las normativas y estándares de salud aplicables en la región donde se utilice.
+Priorización: 
+Un analizador de salud se prioriza en función de diversos factores estos pueden variar según el contexto en el que se necesite, la audiencia y los objetos.
+1-Pacientes individuales: 
+El público principal para muchos analizadores de la salud son los pacientes. Estas herramientas pueden ayudar a las personas a comprender mejor su estado de salud, obtener información sobre elle.
+2-Profesionales de la salud: 
+Los analizadores de salud también pueden esta, estos son los encargados de la supervisión de estos.
+3-Instituciones de salud: 
+Hospitales, clínicas y sistemas de atención medica pueden utilizar analizadores de salud para mejorar la eficiencia operativa, el seguimiento de la salud de la población y la gestión de recursos 
+4-Público en general: 
+Algunos analizadores de salud estan diseñados para ser accesibles para el público en general.
+5-Grupos de riesgos:
+En situación de salud pública, como el control de sus dietas y su estado de salud.
+
 
 ### Diseño:
 Pendiente...
