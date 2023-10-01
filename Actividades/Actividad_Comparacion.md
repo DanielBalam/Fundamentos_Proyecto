@@ -250,7 +250,7 @@ Algunas de las tareas o actividades educativas que promueve UADY para una compet
 * Programación web con conocimientos basicos 
 * Programación de juegos educativos
 * Mejora en conocimiento de algoritmos
-* Juego de Video 
+* Juego de Video (luis angel)
 
 Esto son algunas de las tareas o actividades que promueve la UADY para una mejor competencia en IS.
 
