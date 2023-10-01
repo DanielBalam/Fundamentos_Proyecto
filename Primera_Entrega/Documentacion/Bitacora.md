@@ -13,8 +13,6 @@
 [23/09/2023]
 - **Daniel:** Se creo la rama "Primera_Entrega"
 
-
-
 ### Reunion de Equipo:
 
 [29/09/2023]
