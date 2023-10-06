@@ -1,4 +1,4 @@
-# Roles y Posesos acerca del proyecto
+# Roles y Procesos acerca del proyecto
 
 - **Daniel de Jesus Balam Pech [ProjectManager]**
 - **Omar Enrique Osorio Ceme [Tester]**
