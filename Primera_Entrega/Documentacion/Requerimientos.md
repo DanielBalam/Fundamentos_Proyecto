@@ -84,42 +84,42 @@
 •	Se establecerán protocolos para cumplir con regulaciones específicas relacionadas con la salud.
 
 
-Orden de Prioridad de Requerimientos del Proyecto con base al objetivo del mismo:
-1.	Registro de Usuario:
+Orden de Prioridad de Requerimientos del Proyecto:
 
-2.	Seguridad de Datos:
+1.	Registro de Usuario
 
-3.	Recopilación de Datos de Salud:
+2.	Seguridad de Datos
 
-4.	Rendimiento:
+3.	Recopilación de Datos de Salud
 
-5.	Disponibilidad:
+4.	Rendimiento
 
-6.	Facilidad de Uso:
+5.	Disponibilidad
 
-7.	Análisis de Datos:
+6.	Facilidad de Uso
 
-8.	Recomendaciones Personalizadas:
+7.	Análisis de Datos
 
-9.	Directorio de Profesionales de la Salud:
+8.	Recomendaciones Personalizadas
 
-10.	Notificaciones y Recordatorios:
+9.	Directorio de Profesionales de la Salud
 
-11.	Seguimiento de Salud a lo Largo del Tiempo:
+10.	Notificaciones y Recordatorios
 
-12.	Módulo de Salud Mental:
+11.	Seguimiento de Salud a lo Largo del Tiempo
 
-13.	Acceso Multiplataforma:
+12.	Módulo de Salud Mental
 
-14.	Escalabilidad:
+13.	Acceso Multiplataforma
 
-15.	Cumplimiento Legal:
+14.	Escalabilidad
 
-16.	Compatibilidad:
+15.	Cumplimiento Legal
 
-17.	Mantenimiento y Soporte:
+16.	Compatibilidad
 
-18.	Idiomas y Localización:
+17.	Mantenimiento y Soporte
 
-19.	Cumplimiento de Normativas de Salud:
+18.	Idiomas y Localización
 
+19.	Cumplimiento de Normativas de Salud
