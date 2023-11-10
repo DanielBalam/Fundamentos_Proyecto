@@ -37,6 +37,6 @@ Proponer una herramienta para estudiantes que compile información de salud y re
 
 1. [Primera Entrega](https://github.com/DanielBalam/Fundamentos_Proyecto/tree/Primera_Entrega/Primera_Entrega)
 
-2. [Segunda Entrega]
+2. [Segunda Entrega](https://github.com/DanielBalam/Fundamentos_Proyecto/tree/Segunda_Entrega/Segunda_Entrega)
 
 3. [Tercera Entrega]
