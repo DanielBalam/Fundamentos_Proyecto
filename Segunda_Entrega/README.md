@@ -1,4 +1,4 @@
-# Primera Entrega 💪
+# Segunda Entrega 💪
 
 ## Contenido:
 
@@ -9,5 +9,7 @@
 - [**Requerimientos**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Primera_Entrega/Primera_Entrega/Documentacion/Requerimientos.md)
 - [**Roles y Procesos**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Primera_Entrega/Primera_Entrega/Documentacion/Roles_Procesos.md)
 - [**Usuarios**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Primera_Entrega/Primera_Entrega/Documentacion/Usuarios.md)
+- [**Diseño**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Segunda_Entrega/Segunda_Entrega/Documentacion/Dise%C3%B1o.md)
+- [**Competencias**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Segunda_Entrega/Segunda_Entrega/Documentacion/Competencias.md)
 
-- **Video de la Primera Entrega [Click Aquí](https://youtu.be/63Qh_FHicdo)** 👀
+- **Video de la Segunda Entrega [Click Aquí]** 👀
