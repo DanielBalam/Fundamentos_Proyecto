@@ -15,16 +15,21 @@ Scrum destaca por su flexibilidad ante cambios en los proyectos de software, ada
 
 ### Actividades:
 
+**sprint:** Los sprint que tuvimos fueron de cada semana, con esto garantizamos un avance semanal que nos ayuda a tener un mejor control de las actividades, al igual que nos ayudamos como medio de comunicación con WhatsApp, por reuniones y video llamadas.
 
+**actividades:** Las actividades que se dividieron est vez tuvieron que ver con lo que nos flato de la entrega anterior, al igual que se fortalecieron los puntos con información mas detallada.
 
+**resultados:** Los resultados del trabajo se verán en la segunda entrega, en lo que nos enfocamos esta vez fue en el diseño de la app.
 
 **Planificación:** La planificación del proyecto se realizo junto al equipo para desarrollar un software en especifico
 
-**Reuniones:** Se llevaran a cabo videollamadas para hablar sobre el proyecto y asi dividir las actividades
+**Reuniones:** Se llevaran a cabo video llamadas para hablar sobre el proyecto y asi dividir las actividades
 
 **Revisiones:** Antes de cada entrega se realiza que todo este en orden y que no haya ningún inconveniente para poder realizar los cambios en el github
 
 **Cambios:**
+
+En esta segunda entrega se mejoro la información del proyecto tanto en el github como en el modo de trabajo, al igual que se comenzó con el diseño de la app.
 
 - Se agrego las competencias
 - mejoramiento del video
