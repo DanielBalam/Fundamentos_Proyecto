@@ -27,7 +27,7 @@ Scrum destaca por su flexibilidad ante cambios en los proyectos de software, ada
 
 **Revisiones:** Antes de cada entrega se realiza que todo este en orden y que no haya ningún inconveniente para poder realizar los cambios en el github
 
-**Cambios:**
+### Cambios:
 
 En esta segunda entrega se mejoro la información del proyecto tanto en el github como en el modo de trabajo, al igual que se comenzó con el diseño de la app.
 
@@ -36,3 +36,34 @@ En esta segunda entrega se mejoro la información del proyecto tanto en el githu
 - Se asigno la prioridad a los requisitos
 - Se esta utilizando la metodología SCRUM
 - Creación de un prototipo de diseño hecho en Figma
+
+### Lista de prioridad de tareas:
+
+El valor va desde el 1-5 donde 1 es menos importante hasta 5 donde es de mayor importancia y también con un porcentaje de con que satisfacción se completo la tarea. En las tablas también se muestra como fueron mejorando estas respecto a las entregas que se fueron haciendo con el transcurso del tiempo.
+
+**Primera Entrega**
+
+| Persona|Actividad| Valor (1-5)|Porcentaje (%)|
+|--------|---------|------------|--------------|
+| Daniel Balam| Crear el repositorio|5|100|
+| Angel Nahuat| Proyecto |4|100|
+| Omar Osorio| Usuarios |5|100|
+| Axel Argaez| Requerimientos |5|70|
+| Daniel Balam| Casos de Uso |4|50|
+| Daniel Balam| Roles y Procesos |3|70|
+| Todos| Bitácora |4| 80|
+| Todos| Herramientas y Métodos|3|50|
+| Todos| Video|3|80|
+
+**Segunda Entrega**
+
+| Persona|Actividad| Valor (1-5)|Porcentaje (%)|
+|--------|---------|------------|--------------|
+| Daniel Balam| Diseño|4|80|
+| Axel Argaez| Requerimientos|5|100|
+| Angel Nahuat| Competencias|2|100|
+| Omar Osorio| Herramientas y Metodos|4|100|
+| Todos| Bitacora|4|80|
+| Omar Osorio|Resumen de la primera entrega|3|100|
+| Todos| Video|3|80|
+| Daniel Balam| Roles y procesos|3|100|
