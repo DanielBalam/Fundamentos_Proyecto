@@ -12,4 +12,4 @@
 - [**Diseño**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Segunda_Entrega/Segunda_Entrega/Documentacion/Dise%C3%B1o.md)
 - [**Competencias**](https://github.com/DanielBalam/Fundamentos_Proyecto/blob/Segunda_Entrega/Segunda_Entrega/Documentacion/Competencias.md)
 
-- **Video de la Segunda Entrega [Click Aquí]** 👀
+- **Video de la Segunda Entrega [Click Aquí](https://youtu.be/U_WUS32mTUo)** 👀
