@@ -36,18 +36,36 @@ En resumen, la especificación de casos de uso es valiosa para detallar interacc
 
 ### Diseño de interfaz:
 
-**Método:** Diseño Centrado en el Usuario (DCU).
+**Método:** Diseño Centrado en el Usuario (DCU). 
 
-**Ejemplo:** En este caso nos centramos en la experiencia de usuario, donde sea bastante intuitiva y que sea fácil de utilizar.
+**Ejemplo:** En nuestro proyecto de desarrollo de una aplicación para el cuidado de la salud, implementamos el Diseño Centrado en el Usuario específicamente adaptado a las necesidades del sector salud. Realizamos pruebas con pacientes, cuidadores y profesionales de la salud para evaluar la facilidad de uso, la comprensión de la información y la accesibilidad. A través de este enfoque, ajustamos la interfaz para garantizar que la aplicación sea amigable para usuarios de todas las edades, niveles de habilidad y condiciones de salud. 
 
 ## Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 ### Desarrollo dirigido a pruebas:
 
+El Desarrollo Dirigido por Pruebas (TDD) es una metodología que destaca la escritura de pruebas antes de desarrollar la funcionalidad correspondiente. Este enfoque busca realizar pruebas específicas y mejorar el código a través de la refactorización. Implementar TDD en nuestro proyecto es esencial para optimizar su eficiencia y calidad.
 
+## Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mininas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
 
-## Referencias Bibliográficas
+Las siguientes habilidades son fundamentales para un ingeniero de software, estas se seleccionaron con el fin de 
+
+**Programación Segura:** La programación segura es esencial para minimizar vulnerabilidades y prevenir ataques. Comprender y aplicar buenas prácticas desde el inicio del desarrollo es fundamental.
+
+**Autenticación y Autorización:** El manejo seguro de la autenticación y autorización es crucial para proteger los sistemas contra accesos no autorizados. Un estudiante debe comprender cómo implementar sistemas robustos de control de acceso.
+
+**Seguridad en el Ciclo de Vida del Desarrollo de Software (SDLC):** Integrar la seguridad en todas las fases del ciclo de vida del desarrollo garantiza que las aplicaciones sean seguras desde su concepción hasta su despliegue. Es una perspectiva fundamental para un ingeniero de software.
+
+**Pruebas de Penetración y Evaluación de Seguridad:** Aprender a identificar y corregir vulnerabilidades a través de pruebas de penetración es una habilidad clave. Esto ayuda a comprender las amenazas y a fortalecer proactivamente la seguridad de las aplicaciones.
+
+**Conformidad con Normativas de Seguridad:** Comprender y aplicar las normativas y estándares de seguridad relevantes proporciona una guía sólida para el desarrollo seguro de software. Esto es especialmente importante en entornos regulados.
+
+## Referencias Bibliográficas:
 
 [Casos de Uso vs Historias de Usuarios](https://gegolabs.org/2020/05/15/historias-de-usuario-vs-casos-de-uso/)
 
 [Métodos o técnicas para incluir pruebas](https://informatecdigital.com/desarrollo/desarrollo-dirigido-por-pruebas-que-es-y-como-implementarlo/)
+
+[TDD](https://platzi.com/blog/que-es-y-como-funciona-tdd/)
+
+[Habilidades de un ingeniero de software](https://cohete.digital/guia-carrera-profesional/ingeniero-de-software/habilidades/)
