@@ -20,6 +20,6 @@ General:
 •	¿Se ha asignado a alguien la responsabilidad de la gestión de configuración del proyecto?
 •	¿Se realiza una revisión regular de la configuración y versionamiento del software?
 Observaciones Adicionales:
-________________________________________
+
 Esta lista de verificación se puede utilizar durante el desarrollo del proyecto para asegurarse de que la gestión de configuración se lleva a cabo de manera efectiva para los artefactos específicos. Cada elemento marcado ○ "[○]" con debe ser revisado y marcado como "[●]" una vez que se haya confirmado su implementación. 
 El equipo ha demostrado una sólida implementación de las prácticas de gestión de configuración. Todos los aspectos revisados cumplen con las mejores prácticas y contribuyen a un desarrollo de software efectivo y controlado.
