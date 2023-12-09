@@ -123,3 +123,54 @@ Orden de Prioridad de Requerimientos del Proyecto:
 18.	Idiomas y Localización
 
 19.	Cumplimiento de Normativas de Salud
+
+Diagrama de los requerimientos: 
+
+
+
+**Diagrama de los requerimientos**
+
+
+
+
+```plaintext
+                       -------------------------
+                       |       Usuario           |
+                       -------------------------
+                                 |
+                                 v
+-------------- 1. Registrar Usuario             -------------------------------
+|              |-------------------------------->| Sistema                       |
+|              |                                   |                               |
+|              |                                   |                               |
+|              | 2. Iniciar Sesión                |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|    Actores   | 3. Recuperar Contraseña          |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 4. Ingresar Datos de Salud        |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 5. Analizar Datos de Salud       |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 6. Generar Recomendaciones        |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 7. Buscar Profesionales          |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 8. Enviar Notificaciones         |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 9. Visualizar Progreso           |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 10. Acceder Módulo de Salud       |                               |
+|              |-------------------------------->|                               |
+|              |                                   |                               |
+|              | 11. Acceder Multiplataforma       |                               |
+--------------                                   -------------------------------
+```
+
