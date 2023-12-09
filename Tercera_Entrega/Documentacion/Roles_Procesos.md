@@ -32,10 +32,18 @@ Scrum destaca por su flexibilidad ante cambios en los proyectos de software, ada
 En esta segunda entrega se mejoro la información del proyecto tanto en el github como en el modo de trabajo, al igual que se comenzó con el diseño de la app.
 
 - Se agrego las competencias
-- mejoramiento del video
+- Mejoramiento del video
 - Se asigno la prioridad a los requisitos
 - Se esta utilizando la metodología SCRUM
 - Creación de un prototipo de diseño hecho en Figma
+
+### Cambios 2.0:
+
+En esta tercera entrega se mejoro todo o bueno la mayoría del documento afinando detalles y dejando todo bien para la entrega del producto final
+
+- Se completaron las competencias
+- Se realizo el video de la entrega 3
+- Se completo el diseño viendo que cumpla con todos los requerimientos
 
 ### Lista de prioridad de tareas:
 
@@ -67,3 +75,19 @@ El valor va desde el 1-5 donde 1 es menos importante hasta 5 donde es de mayor i
 | Omar Osorio|Resumen de la primera entrega|3|100|
 | Todos| Video|3|80|
 | Daniel Balam| Roles y procesos|3|100|
+
+**Tercera Entrega**
+
+|Persona|Actividad| Valor (1-5)|Porcentaje (%)|
+|-------|---------|------------|--------------|
+|Daniel Balam|Diseño|5|100|
+| Axel Argaez| Requerimientos|5|100|
+| Angel Nahuat| Competencias|3|100|
+| Omar Osorio| Herramientas y Metodos|4|100|
+| Omar Osorio|Usuarios|3|100|
+| Todos| Bitacora|4|100|
+| Omar Osorio|Resumen de la primera entrega|3|100|
+| Todos| Video|3|100|
+| Daniel Balam| Roles y procesos|3|100|
+
+Al final de la entrega todo se completo con satisfacción, al igual que todos los integrantes del equipo participaron y cumplieron con sus respectivas tareas. Como líder del equipo puedo decir que si tuvimos ciertas dificultades pero al final se logro terminar el proyecto

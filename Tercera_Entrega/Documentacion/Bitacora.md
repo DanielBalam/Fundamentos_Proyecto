@@ -33,5 +33,17 @@
 
 ### Próximos Pasos
 
-[??/??/2023]
-- Tercera entrega del proyecto
+**Se realizo una reunion el dia 28 de noviembre para dividir todo acerca del proyecto**
+
+1. Se creo la rama de la tercera entrega
+2. se dividieron las actividades por medio de WhatsApp
+
+**Se verifico el 3 de diciembre que todo lo que se este haciendo vaya de acuerdo a lo planeado**
+
+1. Se realizo el guion para el video
+2. Se resolvieron dudas del proyecto
+
+**Se hizo una reunion para verificar que todo vaya bien el dia 9 de diciembre**
+
+1. Se vio todo hacer del video y verificar que se hayan cumplido y subido las respectivas actividades
+2. se reviso el diseño y que cumpla con todo lo acordado
