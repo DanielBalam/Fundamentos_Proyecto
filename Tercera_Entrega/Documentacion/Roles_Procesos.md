@@ -71,7 +71,7 @@ El valor va desde el 1-5 donde 1 es menos importante hasta 5 donde es de mayor i
 | Axel Argaez| Requerimientos|5|100|
 | Angel Nahuat| Competencias|2|100|
 | Omar Osorio| Herramientas y Metodos|4|100|
-| Todos| Bitacora|4|80|
+| Todos| Bitácora|4|80|
 | Omar Osorio|Resumen de la primera entrega|3|100|
 | Todos| Video|3|80|
 | Daniel Balam| Roles y procesos|3|100|
@@ -85,9 +85,9 @@ El valor va desde el 1-5 donde 1 es menos importante hasta 5 donde es de mayor i
 | Angel Nahuat| Competencias|3|100|
 | Omar Osorio| Herramientas y Metodos|4|100|
 | Omar Osorio|Usuarios|3|100|
-| Todos| Bitacora|4|100|
+| Todos| Bitácora|4|100|
 | Omar Osorio|Resumen de la primera entrega|3|100|
 | Todos| Video|3|100|
 | Daniel Balam| Roles y procesos|3|100|
 
-Al final de la entrega todo se completo con satisfacción, al igual que todos los integrantes del equipo participaron y cumplieron con sus respectivas tareas. Como líder del equipo puedo decir que si tuvimos ciertas dificultades pero al final se logro terminar el proyecto
+Al final de la entrega todo se completo con satisfacción, al igual que todos los integrantes del equipo participaron y cumplieron con sus respectivas tareas. Como líder del equipo puedo decir que si tuvimos ciertas dificultades pero al final se logro terminar el proyecto.
