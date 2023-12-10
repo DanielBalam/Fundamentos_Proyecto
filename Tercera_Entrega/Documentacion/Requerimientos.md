@@ -128,7 +128,7 @@ Diagrama de los requerimientos:
 
 
 
-**Diagrama de los requerimientos**
+**Diagrama de los requerimientos a través de casos de uso**
 
 
 
